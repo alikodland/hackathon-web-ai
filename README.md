@@ -16,3 +16,7 @@ Visi komputer
 - Pelatihan dan validasi model visi komputer
 - Perpustakaan CV
 - Dasar-dasar pembelajaran mesin
+
+
+## Panduan
+- https://stackoverflow.com/questions/72456464/how-do-i-build-a-discord-button-that-replies-with-a-new-set-of-button
